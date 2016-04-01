@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=nombre\ edad
+comment0.target=Alumno(java.lang.String,\ int)
+comment0.text=\r\n\ Constructor\ de\ la\ clase\ Alumno.\r\n
+comment1.params=nota
+comment1.target=void\ addNota(int)
+comment1.text=\r\n\ A\u00F1ade\ una\ nota\ al\ alumno.\r\n
+comment2.params=
+comment2.target=int\ media()
+comment2.text=\r\n\ Calcula\ la\ media\ de\ notas\ del\ alumno.\r\n
+comment3.params=
+comment3.target=boolean\ estado()
+comment3.text=\r\n\ Devuelve\ true\ si\ esta\ aprobado,\ false\ en\ caso\ contrario.\r\n
+comment4.params=
+comment4.target=void\ mostrarDatos()
+comment4.text=\r\n\ Muestra\ todos\ los\ datos\ de\ los\ alumnos.\r\n
+numComments=5
